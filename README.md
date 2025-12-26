@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prem Singh</h1>
-<h3 align="center">Motivated and entrepreneurial an alumnus of IIT Delhi that thrives in a fast paced,result focused environment where change is a constant. I have work experience in industries like robotics (Greyorange) , e-commerce (wadi.com acquired by majid al futtaim middle-east), and logistics (Rivigo, Gurgaon). Currently, I am a senior software engineer at GreyOrange responsible for end-to-end delivery of customer value products.</h3>
+<h3 align="center">Motivated engineering leader and IIT Delhi alumnus with experience across gaming (WinZO), robotics (GreyOrange), e-commerce (Wadi.com – acquired by Majid Al Futtaim), and logistics (Rivigo). Currently Engineering Lead at WinZO, managing the Platform team of ~6 engineers and driving end-to-end delivery of high-impact systems in a fast-paced, results-driven environment..</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
